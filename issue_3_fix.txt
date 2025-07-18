@@ -1,0 +1,2 @@
+
+This file addresses issue #3 as a test.
